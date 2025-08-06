@@ -1,5 +1,5 @@
-#Float Veri tipi.
-#Float daima kusuratlıdır(ondalıklı sayıdır)
+#Float 
+#(turkısh)Float daima kusuratlıdır(ondalıklı sayıdır)
 5/2
 2.5
 sonuc=5/2
@@ -22,3 +22,4 @@ param
 5.0
 int(param)
 5
+
