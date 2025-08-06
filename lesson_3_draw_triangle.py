@@ -1,4 +1,4 @@
-#Ders4 Üçgen yapımı
+#Lesson4
 import turtle
 turtle.shape("turtle")
 turtle.bgcolor("green")
@@ -7,3 +7,4 @@ turtle.left(120)
 turtle.fd(200)
 turtle.left(120)
 turtle.fd(200)
+
