@@ -1,6 +1,4 @@
 # my-python-journey
-My python journey
-
 # My Python Journey
 
 Hi, I'm Ege 
