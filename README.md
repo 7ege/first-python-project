@@ -1,2 +1,2 @@
-# first-python-project
-My first Python practice codes
+# my-python-journey
+My python journey
