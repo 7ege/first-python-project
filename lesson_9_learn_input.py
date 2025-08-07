@@ -1,12 +1,12 @@
-#Kullanıcıdan Veri Almak
-#"input"=kullanıcıdan veri almanın komutudur.
-ad=input("Adınız Nedir?")  #veri alıyoruz
-Adınız Nedir?Ege
-ad
-'Ege'
+#Input
+
+name=input("What is your name?") 
+name="Ege"
+
 print("Hoşgeldin",ad)
 Hoşgeldin Ege
-yas=input("Yaşınız?") #veri alıyoruz
-Yaşınız?17
+
+age=input("Your age?")
 yas
 '17'
+
