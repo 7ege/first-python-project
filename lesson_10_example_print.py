@@ -1,15 +1,15 @@
-#PRİNTLE BİRDEN FAZLA PARAMETRE KULLANMA
-ad="Ege"
-yas=17
+#PRİNT 
+name="Ege"
+age=17
 
-print("Benim adim",ad,"Yaşımda",yas)
-Benim adim Ege Yaşımda 17
+print("My name is",name,"My age",age)
+#------------------------------------------
 
-ad=input("Adın ne?")
-Adın ne?EGE MANSUROGLU
-okul=input("Which school are u going to?")
-Which school are u going to?Trafford College
-sınıf=input("Kaçıncı sınıfsın")
-Kaçıncı sınıfsın12
-print("Hello my name is",ad,"Im going to",okul,"and Im year",sınıf,"Nice to meet you")
+name=input("Whats your name?")
+Adın ne?Ege
+school=input("Which school are you going to?")
+cls=input("Which class are u")
+
+print("Hello my name is",name,"Im going to",school,"and Im year",scls,"Nice to meet you")
 Hello my name is EGE MANSUROGLU Im going to Trafford College and Im year 12 Nice to meet you
+
